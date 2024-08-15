@@ -3,6 +3,6 @@
 * Calculus
 * Probability and Statistics
 #### Software Engineering
-* Object Oriented Programming
+* Python for Software Engineering
   
 
